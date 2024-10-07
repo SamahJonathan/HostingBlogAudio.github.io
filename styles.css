@@ -1,0 +1,5 @@
+.carousel-img {
+    max-height: 500px;
+    object-fit: cover; /* Ajusta la imagen para cubrir todo el espacio */
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho */
+}
